@@ -1,0 +1,62 @@
+
+|  EN:  |
+
+--------------------------------------------------------------------------------------------------
+
+[1] If there is no requested gallery in the URL, a default gallery loads, as you can see in the
+    your first access.
+
+--------------------------------------------------------------------------------------------------
+
+[2] This script, plugin, site, as you want to call ... automatically identifies the current URLs,
+    that is, you can run a full test on localhost and then simply copy to
+    an external server, the URLs of the galleries are updated.
+
+--------------------------------------------------------------------------------------------------
+
+[3] Does not store images.
+
+--------------------------------------------------------------------------------------------------
+
+[4] QUANTITY OF CHARACTERS ON THE URL: By default the first galleries contain only one character.
+    Ex: http://site/gallery/i?=A, the number of characters will increase automatically, gradually
+    and more and more slowly, because the name of a gallery must already be in the registry. Ex:
+    gallery/i?=A ... gallery/i?=Ad ... gallery/i?=Ad7 .... gallery/i?=7AdsYg5h17k
+
+    INCREASE NUMBER OF CHARACTERS:  Do not want to wait for the number to increase?  =>  view the
+    file "gallery/docs/limite.txt", that simple. Enter the number you want.
+
+--------------------------------------------------------------------------------------------------
+
+[5] PASSWORD: First access in the gallery you are asked to create a password for area administrative, 
+    create one, test login. You will then be prompted to remove the link for your administration table. 
+    Even locked with a password, we recommend removing it.
+ 
+    SHA256, it is an encryption without decryption, sometimes it becomes a problem, since it you lose 
+    a password like that, fuck it. But, it is itself.
+
+--------------------------------------------------------------------------------------------------
+
+[6] REMOVE LINKS from the bottom of the page: go to the "gallery/docs/links/" directory and delete 
+    the .txt file corresponding to the menu you want to remove.
+
+--------------------------------------------------------------------------------------------------
+
+[7] Ideal for a brief presentation of images from a media file, movie or screen photos, monetizing
+    as you wish. The readable code will help you.
+
+--------------------------------------------------------------------------------------------------
+
+[8] This gallery code will be improved and updated soon.
+
+--------------------------------------------------------------------------------------------------
+
+If you want to support us with crypto-coins or if you have already been supporting us, thank you! =)
+
+Bitcoin (BTC):  12gJyByQp7PCvdYf96xZS2t5522o4tTGen
+Litcoin (LTC):  Lbq37AD8fhYzsDVNJYs3ZKMvJtm1L4iUhS
+Ether   (ETH):  0x47De8f24747a432C4d092D1f1F0d7b56EBD4994A
+Dash:  (DASH):  Xh7LLqFQMBGV2idundyaB7eb8bi5aGvmmb
+Monero: (XMR):  4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRxmix3SE59gC1TX5yi
+Dogecoin(DOGE): D74EtBaf4BT7enfVN6mPo8YEm8augQH82R
+

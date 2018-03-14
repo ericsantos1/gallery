@@ -1,0 +1,1 @@
+default/san-francisco.jpg,default/rio.jpg,default/london.jpg,default/new-york.jpg,default/new-delhi.jpg,default/paris.jpg,default/sydney.jpg,default/tokyo.jpg,default/honk-kong.jpg,default/dakar.jpg,default/toronto.jpg,default/monaco.jpg

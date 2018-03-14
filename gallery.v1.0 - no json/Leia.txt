@@ -1,0 +1,61 @@
+
+|  PT-BR:  |
+
+--------------------------------------------------------------------------------------------------
+
+[1] Se não houver nenhuma galeria requisitada na URL, uma galeria padrão é carregada, como pode ver no seu 
+    primeiro acesso.
+
+--------------------------------------------------------------------------------------------------
+
+[2] Este script,  plugin,  site, como quiser chamar...  identifica automaticamente as URLs atuais,  ou seja, 
+    você pode executar um teste completo em localhost e depois simplismente copiar para um servidor externo, 
+    as URLs das galerias são atualizadas.
+
+--------------------------------------------------------------------------------------------------
+
+[3] Não armazena imagens.
+
+--------------------------------------------------------------------------------------------------
+
+[4] QUANTIDADE DE CARACTERES NA URL: Por padrão as primeiras galerias contem apenas um caractere.
+    Ex: http://site/gallery/i?=A, o número de caracteres aumentará de forma automática, gradual e 
+    cada vez mais lento, pois é preciso que o nome de uma galeria já esteja no registro. Ex:
+    gallery/i?=A ... gallery/i?=Ad ... gallery/i?=Ad7 .... gallery/i?=7AdsYg5h17k
+
+    AUMENTAR O NÚMERO DE CARACTERES: Não quer esperar o número aumentar? => veja o arquivo "gallery/docs/limite.txt" 
+    simples assim. Coloque o número que quiser.
+
+--------------------------------------------------------------------------------------------------
+
+[5] SENHA:  Primeito  acesso na galeria você é consultado  sobre criar uma senha para area administrativa, 
+    crie uma, teste o login. Depois será consultado sobre remover o link para sua tabela de administração. 
+    Mesmo trancada com senha, recomendamos remove-lo.
+ 
+    SHA256, é uma criptografia sem descriptografia,  as vezes chega a ser um problema, pois se você perder 
+    uma senha dessas, fudeu. Mas, é ela mesma.
+
+--------------------------------------------------------------------------------------------------
+[6] REMOVER LIKS do final da página: vá ao diretório "gallery/docs/links/" e delete o arquivo .txt 
+    correspondentes ao menu que você quer remover.
+
+--------------------------------------------------------------------------------------------------
+
+[7] Ideal para uma apresentação breve de imagens de um arquivo de midia, filme ou fotos de tela, monetizando 
+    como quiser. O codigo legivel vai te ajudar. 
+
+--------------------------------------------------------------------------------------------------
+
+[8] Este codigo de galeria será melhorado e atualizado em breve.
+
+--------------------------------------------------------------------------------------------------
+
+Caso queira nos apoiar com criptomoedas ou se você já vem nos apoiando, muito obrigado! =)
+
+Bitcoin (BTC):  12gJyByQp7PCvdYf96xZS2t5522o4tTGen
+Litcoin (LTC):  Lbq37AD8fhYzsDVNJYs3ZKMvJtm1L4iUhS
+Ether   (ETH):  0x47De8f24747a432C4d092D1f1F0d7b56EBD4994A
+Dash:  (DASH):  Xh7LLqFQMBGV2idundyaB7eb8bi5aGvmmb
+Monero: (XMR):  4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRxmix3SE59gC1TX5yi
+Dogecoin(DOGE): D74EtBaf4BT7enfVN6mPo8YEm8augQH82R
+
