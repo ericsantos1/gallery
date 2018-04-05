@@ -1,0 +1,1 @@
+<?php if(isset($_GET['l_verifique']) && $_GET['l_verifique']!=""){if(file_exists("code.txt")){$fgc=file_get_contents("code.txt");$arr_fgc = explode("|",$fgc);if(hash('SHA256',$_GET['l_verifique']) == $arr_fgc[1]){echo'?_';}else{echo 'invalid password';}}}else{echo 'empty field';}?>
