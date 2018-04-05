@@ -1,0 +1,1 @@
+nome_da_galeria_1->http://eric.me/video/ @ nome_da_galeria_2->http://ericsn.me/video/
